@@ -3,7 +3,7 @@ export default function Page() {
   <h1>The first step is to understand their usage by gathering information on their current usage patterns. Based on the usage patterns, we can suggest relevant optimization approaches:
 <br/> <br/>
   Here are some ideas to consider that can lower their Serverless Function's execution time:
-  <br/> <br/>  
+  <br/>
 <br/>  Make sure to set your Serverless Function's region as close to your data sources as geographically possible.
 <br/>  What exactly is slow? The 3rd party API? If yes, can you trigger a request to the API and fetch the result later?
 <br/>  Introduce a caching layer between the 3rd party API and your Serverless Functions.
