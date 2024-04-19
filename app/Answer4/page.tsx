@@ -11,8 +11,7 @@ export default function Page() {
   After saving the changes, you can test this by visiting your project's "/blog" path. It should now automatically redirect to the specified destination URL.
 <br/>  You can also refer to these articles below for reference:
   <br/> 
-<br/>  Redirects:<a href="/https://vercel.com/docs/edge-network/redirects">https://vercel.com/docs/edge-network/redirects
-</a>
+<br/>  Redirects: https://vercel.com/docs/edge-network/redirects
 <br/>  Next.js configuration: https://vercel.com/docs/frameworks/nextjs
 <br/>  Serverless Functions: https://vercel.com/docs/functions
   <br/> <br/>  
