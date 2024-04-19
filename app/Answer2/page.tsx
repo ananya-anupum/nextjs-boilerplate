@@ -10,7 +10,7 @@ export default function Page() {
 <br/>  Offers excellent performance with its SSR and SSG capabilities, resulting in faster initial page loads and improved SEO.
 <br/> <br/>  
   Angular
-<br/> <br/>  
+  
 <br/>  Angular is a TypeScript-based framework and is built by Google.
 <br/>  Offers a robust framework with built-in features for routing, data binding, and dependency injection.
 <br/>  Angular has a steeper learning curve due to its comprehensive nature and developers need to grasp various concepts like modules, components and decorators.
